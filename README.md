@@ -59,4 +59,4 @@ Polar Client is distributed under the MIT License. Feel free to use, modify, and
 
 ## Contact
 
-If you have any questions or need support, join our [Discord server](https://discord.gg/pKXRh3ik) or reach out on [GitHub Issues](https://github.com/your-username/polar-client/issues).
+If you have any questions or need support, join our [Discord server](https://discord.gg/pKXRh3ik) or reach out on [GitHub Issues](https://github.com/polarclient-v2/releases/issues).
