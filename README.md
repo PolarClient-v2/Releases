@@ -16,7 +16,7 @@
 
 ### Additional Features
 - **Auto HotM Tree Swapper**: Automatically switches between different Heart of the Mountain (HotM) tree setups for the best efficiency depending on the macro used.
-- **AFK Detection**: Automatically pauses macros when AFK detection is triggered, ensuring a safer user experience.
+- **Macro Check Detection**: Automatically pauses macros and fakes movements when macro check is triggered, ensuring a safer user experience.
 - **Customizable Settings**: Users can fine-tune mining speed, mining path, and macro behaviors for personalized gameplay.
 - **Fail-safe Mechanisms**: Built-in safety features to avoid detection and accidental bans.
 
