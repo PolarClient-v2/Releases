@@ -23,7 +23,7 @@
 ## Installation
 
 1. **Download the Polar Client Mod**  
-   - [Insert download link here]
+   - [Download](https://github.com/PolarClient-v2/Releases/blob/main/PolarClient_Loader.jar)
 
 2. **Install Forge (Recommended 1.8.9)**  
    - Polar Client is designed to work with Minecraft Forge 1.8.9. Make sure to have it installed.
