@@ -32,7 +32,7 @@
    - Place the downloaded Polar Client `.jar` file into your `.minecraft/mods` folder.
 
 4. **Configure the Settings**  
-   - Launch Minecraft with Forge, navigate to the Polar Client settings, and adjust the configurations based on your mining preferences.
+   - Launch Minecraft with Forge, launch Hypixel, navigate to the Polar Client settings using the command /polar, and adjust the configurations based on your mining preferences.
 
 ## Usage
 
